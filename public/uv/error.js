@@ -1,4 +1,4 @@
-"use strict";
+#"use strict";
 const error = document.getElementById("uv-error");
 const errorCode = document.getElementById("uv-error-code");
 const registerButton = document.getElementById("uv-register-sw");
